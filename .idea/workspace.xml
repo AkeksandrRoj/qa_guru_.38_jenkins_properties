@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca671430-7657-4047-857a-f733e8928c25" name="Changes" comment="add  video">
+    <list default="true" id="ca671430-7657-4047-857a-f733e8928c25" name="Changes" comment="add line^ Attach.addVideo()">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/guru/qa/PracticeFormTestsWithJenkins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/guru/qa/PracticeFormTestsWithJenkins.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/guru/qa/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/guru/qa/TestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -375,7 +377,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762893165525</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="fix  video">
+      <option name="closed" value="true" />
+      <created>1762893518315</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1762893518315</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -389,6 +399,7 @@
     <MESSAGE value="add pageSource. browserConsoleLogs" />
     <MESSAGE value="add  class TestBase" />
     <MESSAGE value="add  video" />
-    <option name="LAST_COMMIT_MESSAGE" value="add  video" />
+    <MESSAGE value="fix  video" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix  video" />
   </component>
 </project>
