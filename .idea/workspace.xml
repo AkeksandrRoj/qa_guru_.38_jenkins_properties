@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca671430-7657-4047-857a-f733e8928c25" name="Changes" comment="add line^ Attach.addVideo()">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/guru/qa/PracticeFormTestsWithJenkins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/guru/qa/PracticeFormTestsWithJenkins.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/guru/qa/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/guru/qa/TestBase.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="qa_guru_.38_junit" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="qa_guru_.38_junit" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="qa_guru_.38_junit" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="simple" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AkeksandrRoj"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AkeksandrRoj/qa_guru_.38_junit.git",
+    "accountId": "5cbacf71-01b9-4cbb-b12d-c8942ca160b3"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="34xmPzkXAlHn2MgWP4f0RhaPpvC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Gradle.EmailTest.emailShouldBeSentAfterChangePaymentMethod.executor": "Run",
+    "Gradle.EmailTest.emailShouldBeSentForNewUser.executor": "Run",
+    "Gradle.EmailTest.emailShouldBeSentForOnlyWomen.executor": "Run",
+    "Gradle.EmailTest.executor": "Run",
+    "Gradle.FilesFromZipTests.csvFromZipTest.executor": "Run",
+    "Gradle.FilesFromZipTests.executor": "Run",
+    "Gradle.FilesFromZipTests.pdfFromZipTest.executor": "Run",
+    "Gradle.FilesFromZipTests.xlsFromZipTest.executor": "Run",
+    "Gradle.FilsParsingTest.csvFileParsingTest.executor": "Run",
+    "Gradle.FilsParsingTest.executor": "Run",
+    "Gradle.FilsParsingTest.jsonFileParsingTest.executor": "Run",
+    "Gradle.FilsParsingTest.pdfFileParsingTest.executor": "Run",
+    "Gradle.FilsParsingTest.xlsFileParsingTest.executor": "Run",
+    "Gradle.FilsParsingTest.zipFileParsingTest.executor": "Run",
+    "Gradle.NegativeTests.executor": "Run",
+    "Gradle.PlatiChastyamiWebTests.executor": "Run",
+    "Gradle.PlatiChastyamiWebTests.logoVerificationOnHomePage.executor": "Run",
+    "Gradle.PositiveTests.executor": "Run",
+    "Gradle.PracticeFormTests.positiveFillPracticeFormTest.executor": "Run",
+    "Gradle.PracticeFormTestsWithJenkins.executor": "Run",
+    "Gradle.PracticeFormTestsWithJenkins.positiveFillPracticeFormTest.executor": "Run",
+    "Gradle.SelenideFileTest.downLoadFileTest.executor": "Run",
+    "Gradle.SelenideFileTest.executor": "Run",
+    "Gradle.SelenideFileTest.upLoadFileTest.executor": "Run",
+    "Gradle.WebTest.executor": "Run",
+    "Gradle.WebTest.searchListOfLinksWithInputJUnitTest.executor": "Run",
+    "Gradle.WebTest.searchListOfLinksWithInputSelenideTest.executor": "Run",
+    "Gradle.WebTest.successfulSearchListOfLinksTest.executor": "Run",
+    "Gradle.WebTest.successfulSearchListOfPicturesTest.executor": "Run",
+    "Gradle.WebTest.successfulSearchTest.executor": "Run",
+    "Gradle.qa_guru_.38_junit [:guru_qa.Main.main()].executor": "Run",
+    "Gradle.qa_guru_.38_junit [allureServe].executor": "Run",
+    "Gradle.qa_guru_.38_junit [build].executor": "Run",
+    "Gradle.qa_guru_.38_junit [clean].executor": "Run",
+    "Gradle.qa_guru_.38_junit [processTestResources].executor": "Run",
+    "Gradle.qa_guru_.38_junit [simple_test].executor": "Run",
+    "Gradle.simpleTest.executor": "Run",
+    "Gradle.simpleTest.simpleTest.executor": "Run",
+    "JUnit.PracticeFormTestsWithJenkins.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "G:/Projects/qa_guru_.38_junit/src/test/resources",
+    "onboarding.tips.debug.path": "G:/Projects/qa_guru_.38_junit/src/main/java/guru_qa/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Projects\qa_guru_.38_junit\src\test\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Projects\qa_guru_.38_junit\src\test\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="guru.qa" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PracticeFormTestsWithJenkins">
+    <configuration name="PracticeFormTestsWithJenkins" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;guru.qa.PracticeFormTestsWithJenkins&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="PracticeFormTestsWithJenkins.positiveFillPracticeFormTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;guru.qa.PracticeFormTestsWithJenkins.positiveFillPracticeFormTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="qa_guru_.38_junit [allureServe]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="allureServe" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="qa_guru_.38_junit [processTestResources]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="processTestResources" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="PracticeFormTestsWithJenkins" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qa_guru_.38_junit.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guru.qa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="guru.qa" />
+      <option name="MAIN_CLASS_NAME" value="guru.qa.PracticeFormTestsWithJenkins" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PracticeFormTestsWithJenkins" />
+        <item itemvalue="Gradle.qa_guru_.38_junit [allureServe]" />
+        <item itemvalue="Gradle.PracticeFormTestsWithJenkins" />
+        <item itemvalue="Gradle.qa_guru_.38_junit [processTestResources]" />
+        <item itemvalue="Gradle.PracticeFormTestsWithJenkins.positiveFillPracticeFormTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca671430-7657-4047-857a-f733e8928c25" name="Changes" comment="" />
+      <created>1762163585586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762163585586</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add pacage somple and three class and builde.gradle update">
+      <option name="closed" value="true" />
+      <created>1762876551366</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762876551366</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add pacage somple and three class and builde.gradle update">
+      <option name="closed" value="true" />
+      <created>1762876558370</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762876558370</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add allure">
+      <option name="closed" value="true" />
+      <created>1762883857288</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762883857288</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add allure">
+      <option name="closed" value="true" />
+      <created>1762884075312</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1762884075312</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix negative tests">
+      <option name="closed" value="true" />
+      <created>1762884999702</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1762884999702</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add positiveFillPracticeFormTest">
+      <option name="closed" value="true" />
+      <created>1762887515488</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1762887515488</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add remote start">
+      <option name="closed" value="true" />
+      <created>1762889979172</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1762889979172</updated>
+    </task>
+    <task id="LOCAL-00008" summary="screenshot attach">
+      <option name="closed" value="true" />
+      <created>1762891694190</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1762891694190</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix afterEach">
+      <option name="closed" value="true" />
+      <created>1762892042679</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1762892042679</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add pageSource. browserConsoleLogs">
+      <option name="closed" value="true" />
+      <created>1762892494249</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1762892494249</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add  class TestBase">
+      <option name="closed" value="true" />
+      <created>1762892840547</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1762892840547</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add  video">
+      <option name="closed" value="true" />
+      <created>1762893165525</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1762893165525</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix  video">
+      <option name="closed" value="true" />
+      <created>1762893518315</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1762893518315</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add pacage somple and three class and builde.gradle update" />
+    <MESSAGE value="add allure" />
+    <MESSAGE value="fix negative tests" />
+    <MESSAGE value="add positiveFillPracticeFormTest" />
+    <MESSAGE value="add remote start" />
+    <MESSAGE value="screenshot attach" />
+    <MESSAGE value="fix afterEach" />
+    <MESSAGE value="add pageSource. browserConsoleLogs" />
+    <MESSAGE value="add  class TestBase" />
+    <MESSAGE value="add  video" />
+    <MESSAGE value="fix  video" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix  video" />
+  </component>
+</project>
