@@ -6,6 +6,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 @Tag("simple")
+@Tag("smoke")
 public class PositiveTests {
 
     @Test

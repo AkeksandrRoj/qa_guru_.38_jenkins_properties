@@ -19,6 +19,7 @@ public class PracticeFormTestsWithJenkins extends TestBase {
 
 
     @Tag("homeWork")
+    @Tag("smoke")
     @Test
     void positiveFillPracticeFormTest() {
         step("Открываем страницу формы", () -> {

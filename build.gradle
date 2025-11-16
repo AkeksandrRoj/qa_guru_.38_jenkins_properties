@@ -60,4 +60,9 @@ tasks.withType(Test) {
             exceptionFormat "short"
         }
     }
+    tasks.register('smoke_test', Test) {
+        useJUnitPlatform {
+            includeTags("smoke")
+        }
+    }
 }
