@@ -39,6 +39,8 @@ dependencies {
     )
 }
 
+
+
 tasks.register('homeWork_test', Test) {
     useJUnitPlatform {
         includeTags("homeWork")
@@ -51,6 +53,14 @@ tasks.register('simple_test', Test) {
     }
 }
 
+tasks.register('smoke_test', Test) {
+    useJUnitPlatform {
+        includeTags("smoke")
+    }
+}
+
+
+
 tasks.withType(Test) {
     useJUnitPlatform()
 
@@ -58,11 +68,6 @@ tasks.withType(Test) {
         lifecycle {
             events "started", "skipped", "failed", "standard_error", "standard_out"
             exceptionFormat "short"
-        }
-    }
-    tasks.register('smoke_test', Test) {
-        useJUnitPlatform {
-            includeTags("smoke")
         }
     }
 }
