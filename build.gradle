@@ -56,11 +56,7 @@ tasks.withType(Test) {
 //    }
 //}
 
-task simple_test(type: Test) {
-    useJUnitPlatform {
-        //   includeTags 'Bloker', 'HomeWork'
-    }
-}
+
 
 tasks.withType(Test) {
     useJUnitPlatform()
@@ -73,11 +69,20 @@ tasks.withType(Test) {
     }
 }
 
+task test(type: Test) {
+    useJUnitPlatform {
 
+}
 
 
 task homeWork_test(type: Test) {
     useJUnitPlatform {
         includeTags("homeWork")
+    }
+}
+
+task simple_test(type: Test) {
+    useJUnitPlatform {
+           includeTags ("simple")
     }
 }
