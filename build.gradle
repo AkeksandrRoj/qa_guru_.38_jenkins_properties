@@ -59,8 +59,6 @@ tasks.register('smoke_test', Test) {
     }
 }
 
-
-
 tasks.withType(Test) {
     useJUnitPlatform()
 
