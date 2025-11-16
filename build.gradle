@@ -57,7 +57,6 @@ tasks.withType(Test) {
 //}
 
 
-
 tasks.withType(Test) {
     useJUnitPlatform()
 
@@ -72,17 +71,18 @@ tasks.withType(Test) {
 task test(type: Test) {
     useJUnitPlatform {
 
-}
-
-
-task homeWork_test(type: Test) {
-    useJUnitPlatform {
-        includeTags("homeWork")
     }
-}
 
-task simple_test(type: Test) {
-    useJUnitPlatform {
-           includeTags ("simple")
+
+    task homeWork_test(type: Test) {
+        useJUnitPlatform {
+            includeTags("homeWork")
+        }
+    }
+
+    task simple_test(type: Test) {
+        useJUnitPlatform {
+            includeTags("simple")
+        }
     }
 }
