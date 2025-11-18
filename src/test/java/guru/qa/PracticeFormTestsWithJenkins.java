@@ -19,12 +19,19 @@ public class PracticeFormTestsWithJenkins extends TestBase {
 
 
     @Tag("homeWork")
+    @Tag("homeWork_test")
     @Test
     void positiveFillPracticeFormTest() {
+
         step("Открываем страницу формы", () -> {
             open("automation-practice-form");
-            executeJavaScript("$('#fixedban').remove()");
-            executeJavaScript("$('footer').remove()");
+        });
+        step("Отключаем рекламу на demoqa", () -> {
+            executeJavaScript(
+                    "setInterval(() => {" +
+                            "document.querySelectorAll('iframe, #fixedban, footer').forEach(e => e.remove());" +
+                            "}, 100);"
+            );
         });
         step("Задаем имя: ", () -> {
             $("#firstName").setValue("Ivan");
@@ -60,13 +67,13 @@ public class PracticeFormTestsWithJenkins extends TestBase {
             $("#currentAddress").setValue("Something address");
         });
         step("Задаем штат: ", () -> {
-            $("#state").click();
-          $("#stateCity-wrapper").$(byText("NCR")).click();
+            $("#state").scrollIntoView(true).click();
+          $("#stateCity-wrapper").$(byText("Rajasthan")).click();
 
 
         });
         step("Задаем город: ", () -> {
-            $("#city").click();
+            $("#city").scrollIntoView(true).click();
            $("#stateCity-wrapper").$(byText("Jaiselmer")).click();
 
         });
