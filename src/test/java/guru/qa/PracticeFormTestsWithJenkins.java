@@ -18,7 +18,7 @@ import static io.qameta.allure.Allure.step;
 public class PracticeFormTestsWithJenkins extends TestBase {
 
 
-    @Tag("homeWork")
+    @Tag("smoke")
     @Tag("homeWork_test")
     @Test
     void positiveFillPracticeFormTest() {
